@@ -2,8 +2,12 @@ Raindrops on roses and whiskers on kittens
 
 Bright copper kettles and warm woolen mittens
 
+<<<<<<< HEAD
 Brown paper packages tied up with stringsss
 
 These are a few of my favourite things
 
 When the dog barks, When the bee stings, When I'm feeling sad
+=======
+Brown paper packages tied up with string
+>>>>>>> parent of c75db9a (Revert "Favourite things")
